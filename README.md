@@ -71,7 +71,7 @@ The sector is **moderately fragmented**: while legacy multi-billion conglomerate
 
 *Sorted by GitHub stargazers count (descending).*
 
-| Project | Stars | Focus & Technology | Key Features |
+| Project | GitHub_Stars | Focus & Technology | Key Features |
 | :--- | :--- | :--- | :--- |
 | **[maybe-finance/maybe](https://github.com/maybe-finance/maybe)** 🔮 | [![Stars](https://img.shields.io/github/stars/maybe-finance/maybe?style=social&color=white)](https://github.com/maybe-finance/maybe/stargazers) | Wealth & Portfolio Management (Ruby on Rails, Hotwire, PostgreSQL) | Self-hosted OS for wealth tracking, net worth graphs, asset allocation, investment returns, and transaction reconciliation. |
 | **[actualbudget/actual](https://github.com/actualbudget/actual)** 🎯 | [![Stars](https://img.shields.io/github/stars/actualbudget/actual?style=social&color=white)](https://github.com/actualbudget/actual/stargazers) | Zero-Based Envelope Budgeting (Node.js, TypeScript, SQLite, CRDT) | Local-first YNAB replacement with end-to-end sync, multi-device clients, GoCardless/SimpleFIN automated bank feeds, and split rules. |
